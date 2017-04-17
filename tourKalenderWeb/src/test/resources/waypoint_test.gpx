@@ -1,0 +1,610 @@
+﻿<gpx>
+  <wpt lat="50.716740014031529" lon="6.445579016581178">
+    <ele>166.33448799999999</ele>
+    <time>2012-12-03T09:12:28Z</time>
+    <name>Name 1</name>
+    <sym>Flag, Green</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.71627096273005" lon="6.445984030142427">
+    <ele>166.125946</ele>
+    <time>2012-12-03T09:20:08Z</time>
+    <name>Name 2</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.715435035526752" lon="6.446907967329025">
+    <ele>167.88145399999999</ele>
+    <time>2012-12-03T09:26:12Z</time>
+    <name>Name 3</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.715144015848637" lon="6.447166968137026">
+    <ele>168.15205399999999</ele>
+    <time>2012-12-03T09:27:56Z</time>
+    <name>Name 4</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.714877974241972" lon="6.447410965338349">
+    <ele>169.19809000000001</ele>
+    <time>2012-12-03T09:28:49Z</time>
+    <name>Name 5</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.712555013597012" lon="6.445330996066332">
+    <ele>170.21160900000001</ele>
+    <time>2012-12-03T09:39:17Z</time>
+    <name>Name 6</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.712138013914227" lon="6.444818023592234">
+    <ele>171.18963600000001</ele>
+    <time>2012-12-03T09:40:18Z</time>
+    <name>Name 7</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.711723025888205" lon="6.444288035854697">
+    <ele>171.37829600000001</ele>
+    <time>2012-12-03T09:41:47Z</time>
+    <name>Name 8</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.709814969450235" lon="6.443385975435376">
+    <ele>190.55445900000001</ele>
+    <time>2012-12-03T09:46:06Z</time>
+    <name>1115</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.708037000149488" lon="6.444257022812963">
+    <ele>212.32429500000001</ele>
+    <time>2012-12-03T09:51:49Z</time>
+    <name>1116</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.705124959349632" lon="6.445977995172143">
+    <ele>234.553696</ele>
+    <time>2012-12-03T09:58:22Z</time>
+    <name>1117</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.704392967745662" lon="6.448730025440455">
+    <ele>262.27990699999998</ele>
+    <time>2012-12-03T10:05:53Z</time>
+    <name>1118</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.703430976718664" lon="6.453699991106987">
+    <ele>356.14486699999998</ele>
+    <time>2012-12-03T10:28:22Z</time>
+    <name>1119</name>
+    <sym>Civil</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.703589981421828" lon="6.454590987414122">
+    <ele>362.58373999999998</ele>
+    <time>2012-12-03T10:30:26Z</time>
+    <name>1120</name>
+    <sym>Civil</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.704368995502591" lon="6.4571029599756">
+    <ele>365.72985799999998</ele>
+    <time>2012-12-03T10:35:21Z</time>
+    <name>1121</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.705507006496191" lon="6.459969989955425">
+    <ele>374.96560699999998</ele>
+    <time>2012-12-03T10:45:49Z</time>
+    <name>1122</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.703490991145372" lon="6.462328992784023">
+    <ele>333.95352200000002</ele>
+    <time>2012-12-03T10:59:51Z</time>
+    <name>1123</name>
+    <sym>Civil</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.70286201313138" lon="6.465333988890052">
+    <ele>356.68597399999999</ele>
+    <time>2012-12-03T11:15:03Z</time>
+    <name>1124</name>
+    <sym>Civil</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.704764034599066" lon="6.463254019618034">
+    <ele>376.72851600000001</ele>
+    <time>2012-12-03T11:19:19Z</time>
+    <name>1125</name>
+    <sym>Civil</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.704793035984039" lon="6.463227029889822">
+    <ele>376.66464200000001</ele>
+    <time>2012-12-03T11:19:24Z</time>
+    <name>1126</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.706075970083475" lon="6.461375970393419">
+    <ele>385.22314499999999</ele>
+    <time>2012-12-03T11:23:20Z</time>
+    <name>1127</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.707497959956527" lon="6.459181001409888">
+    <ele>381.78137199999998</ele>
+    <time>2012-12-03T11:28:33Z</time>
+    <name>1128</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.707701975479722" lon="6.455857995897532">
+    <ele>392.98727400000001</ele>
+    <time>2012-12-03T11:32:00Z</time>
+    <name>1129</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.707140974700451" lon="6.456431988626719">
+    <ele>375.53845200000001</ele>
+    <time>2012-12-03T11:47:26Z</time>
+    <name>1130</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.708279991522431" lon="6.460151039063931">
+    <ele>384.06561299999998</ele>
+    <time>2012-12-03T11:55:40Z</time>
+    <name>1131</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.711571983993053" lon="6.457609981298447">
+    <ele>371.56152300000002</ele>
+    <time>2012-12-03T12:01:41Z</time>
+    <name>1132</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.712889032438397" lon="6.455228012055159">
+    <ele>355.67120399999999</ele>
+    <time>2012-12-03T12:06:10Z</time>
+    <name>1133</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.71532498113811" lon="6.457189964130521">
+    <ele>256.60632299999997</ele>
+    <time>2012-12-03T12:17:44Z</time>
+    <name>1134</name>
+    <sym>Crossing</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.714630959555507" lon="6.458407016471028">
+    <ele>293.752411</ele>
+    <time>2012-12-03T12:22:08Z</time>
+    <name>1135</name>
+    <sym>Crossing</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.718085980042815" lon="6.460031010210514">
+    <ele>267.52175899999997</ele>
+    <time>2012-12-03T12:30:35Z</time>
+    <name>1136</name>
+    <sym>Crossing</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.718301981687546" lon="6.459964960813522">
+    <ele>268.561981</ele>
+    <time>2012-12-03T12:34:24Z</time>
+    <name>1137</name>
+    <sym>Civil</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.718483030796051" lon="6.460007037967444">
+    <ele>264.966431</ele>
+    <time>2012-12-03T12:37:27Z</time>
+    <name>1138</name>
+    <sym>Civil</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.715784979984164" lon="6.452279007062316">
+    <ele>201.485275</ele>
+    <time>2012-12-03T12:53:19Z</time>
+    <name>1139</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.716914022341371" lon="6.453784983605146">
+    <ele>189.33273299999999</ele>
+    <time>2012-12-03T12:56:00Z</time>
+    <name>1140</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.716615961864591" lon="6.452357964590192">
+    <ele>185.243866</ele>
+    <time>2012-12-03T12:59:45Z</time>
+    <name>1141</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.717014018446207" lon="6.452661976218224">
+    <ele>181.95784</ele>
+    <time>2012-12-03T13:00:25Z</time>
+    <name>1142</name>
+    <sym>Flag, Blue</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.716385040432215" lon="6.446000961586833">
+    <ele>170.786407</ele>
+    <time>2012-12-03T13:13:52Z</time>
+    <name>1143</name>
+    <sym>Flag, Red</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Wegpunkte_03-DEZ-12.gpx</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+
+  <wpt lat="50.706732273101807" lon="6.452407836914063">
+    <time>2012-12-03T18:16:33Z</time>
+    <name>Eifelblick</name>
+    <cmt>Eifelblick</cmt>
+    <desc>Eifelblick</desc>
+    <sym>Civil</sym>
+    <type>user</type>
+    <extensions>
+      <gpxx:WaypointExtension>
+        <gpxx:DisplayMode>SymbolAndName</gpxx:DisplayMode>
+        <gpxx:Categories>
+          <gpxx:Category>Ungelistete Daten</gpxx:Category>
+        </gpxx:Categories>
+      </gpxx:WaypointExtension>
+    </extensions>
+  </wpt>
+</gpx>

@@ -1,0 +1,147 @@
+﻿  <trk>
+    <name>2012-09-03T15:47:59Z</name>
+    <extensions>
+      <gpxx:TrackExtension>
+        <gpxx:DisplayColor>DarkGray</gpxx:DisplayColor>
+      </gpxx:TrackExtension>
+    </extensions>
+    <trkseg>
+      <trkpt lat="51.268270583823323" lon="6.848408505320549">
+        <ele>106.3630371</ele>
+        <time>2012-09-03T15:47:59Z</time>
+        <desc>Trackpoint 1</desc>
+        <name>Name 1</name>
+      </trkpt>
+      <trkpt lat="51.268252898007631" lon="6.848499532788992">
+        <ele>107.8050537</ele>
+        <time>2012-09-03T15:48:03Z</time>
+        <desc>Trackpoint 2</desc>
+      </trkpt>
+      <trkpt lat="51.268172264099121" lon="6.848585363477469">
+        <ele>108.2856445</ele>
+        <time>2012-09-03T15:48:06Z</time>
+        <desc>Trackpoint 3</desc>
+      </trkpt>
+      <trkpt lat="51.268135635182261" lon="6.848589638248086">
+        <ele>108.2856445</ele>
+        <time>2012-09-03T15:48:07Z</time>
+        <desc>Trackpoint 4</desc>
+      </trkpt>
+      <trkpt lat="51.26796456053853" lon="6.848664740100503">
+        <ele>109.72766110000001</ele>
+        <time>2012-09-03T15:48:12Z</time>
+        <desc>Trackpoint 5</desc>
+      </trkpt>
+      <trkpt lat="51.26778325997293" lon="6.848747720941901">
+        <ele>109.24694820000001</ele>
+        <time>2012-09-03T15:48:17Z</time>
+        <desc>Trackpoint 6</desc>
+      </trkpt>
+      <trkpt lat="51.26756482757628" lon="6.848852159455419">
+        <ele>109.24694820000001</ele>
+        <time>2012-09-03T15:48:23Z</time>
+        <desc>Trackpoint 7</desc>
+      </trkpt>
+      <trkpt lat="51.267373636364937" lon="6.848937487229705">
+        <ele>110.6888428</ele>
+        <time>2012-09-03T15:48:28Z</time>
+        <desc>Trackpoint 8</desc>
+      </trkpt>
+      <trkpt lat="51.267176158726215" lon="6.849020719528198">
+        <ele>110.208252</ele>
+        <time>2012-09-03T15:48:33Z</time>
+        <desc>Trackpoint 9</desc>
+      </trkpt>
+      <trkpt lat="51.267136596143246" lon="6.849040417000651">
+        <ele>110.208252</ele>
+        <time>2012-09-03T15:48:34Z</time>
+        <desc>Trackpoint 10</desc>
+        <name>Name 10</name>
+      </trkpt>
+      <trkpt lat="51.267050597816706" lon="6.849065562710166">
+        <ele>109.72766110000001</ele>
+        <time>2012-09-03T15:48:36Z</time>
+        <desc>Trackpoint 11</desc>
+      </trkpt>
+      <trkpt lat="51.266868291422725" lon="6.849046368151903">
+        <ele>106.8436279</ele>
+        <time>2012-09-03T15:48:40Z</time>
+        <desc>Trackpoint 12</desc>
+      </trkpt>
+      <trkpt lat="51.266775168478489" lon="6.849010577425361">
+        <ele>106.8436279</ele>
+        <time>2012-09-03T15:48:42Z</time>
+        <desc>Trackpoint 13</desc>
+      </trkpt>
+      <trkpt lat="51.266691097989678" lon="6.848964225500822">
+        <ele>106.8436279</ele>
+        <time>2012-09-03T15:48:44Z</time>
+        <desc>Trackpoint 14</desc>
+      </trkpt>
+      <trkpt lat="51.266537792980671" lon="6.848891889676452">
+        <ele>106.3630371</ele>
+        <time>2012-09-03T15:48:48Z</time>
+        <desc>Trackpoint 15</desc>
+      </trkpt>
+      <trkpt lat="51.266332436352968" lon="6.848857020959258">
+        <ele>104.9210205</ele>
+        <time>2012-09-03T15:48:53Z</time>
+        <desc>Trackpoint 16</desc>
+      </trkpt>
+      <trkpt lat="51.266241492703557" lon="6.848827684298158">
+        <ele>104.4404297</ele>
+        <time>2012-09-03T15:48:55Z</time>
+        <desc>Trackpoint 17</desc>
+      </trkpt>
+      <trkpt lat="51.266151387244463" lon="6.848758365958929">
+        <ele>104.9210205</ele>
+        <time>2012-09-03T15:48:57Z</time>
+        <desc>Trackpoint 18</desc>
+      </trkpt>
+      <trkpt lat="51.266042338684201" lon="6.848646299913526">
+        <ele>105.4017334</ele>
+        <time>2012-09-03T15:49:01Z</time>
+        <desc>Trackpoint 19</desc>
+      </trkpt>
+      <trkpt lat="51.265962291508913" lon="6.848658537492156">
+        <ele>103.4790039</ele>
+        <time>2012-09-03T15:49:04Z</time>
+        <desc>Trackpoint 20</desc>
+      </trkpt>
+      <trkpt lat="51.265927841886878" lon="6.848651831969619">
+        <ele>103.4790039</ele>
+        <time>2012-09-03T15:49:05Z</time>
+        <desc>Trackpoint 21</desc>
+      </trkpt>
+      <trkpt lat="51.265870677307248" lon="6.848624590784311">
+        <ele>104.4404297</ele>
+        <time>2012-09-03T15:49:07Z</time>
+        <desc>Trackpoint 22</desc>
+      </trkpt>
+      <trkpt lat="51.265763640403748" lon="6.848450833931565">
+        <ele>104.4404297</ele>
+        <time>2012-09-03T15:49:12Z</time>
+         <desc>Trackpoint 23</desc>
+      </trkpt>
+      <trkpt lat="51.26565526239574" lon="6.848278334364295">
+        <ele>104.9210205</ele>
+        <time>2012-09-03T15:49:17Z</time>
+        <desc>Trackpoint 24</desc>
+      </trkpt>
+      <trkpt lat="51.265520816668868" lon="6.848079264163971">
+        <ele>106.3630371</ele>
+        <time>2012-09-03T15:49:23Z</time>
+        <desc>Trackpoint 25</desc>
+      </trkpt>
+      <trkpt lat="51.265441691502929" lon="6.847914140671492">
+        <ele>108.7662354</ele>
+        <time>2012-09-03T15:49:28Z</time>
+        <desc>Trackpoint 26</desc>
+      </trkpt>
+      <trkpt lat="51.265332978218794" lon="6.847765864804387">
+        <ele>110.208252</ele>
+        <time>2012-09-03T15:49:34Z</time>
+        <desc>Trackpoint 27</desc>
+      </trkpt>
+    </trkseg>
+  </trk>

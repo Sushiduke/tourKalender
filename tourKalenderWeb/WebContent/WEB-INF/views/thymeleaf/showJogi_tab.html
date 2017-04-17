@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org"
+	xmlns:sec="http://www.thymeleaf.org/thymeleaf-extras-springsecurity3">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Jogis ist unterwegs</title>
+<script src="https://code.jquery.com/jquery.min.js"></script>
+
+<script
+	src="https://maps.googleapis.com/maps/api/js?key=AIzaSyBrniTa20vxNsQRx3Aoq4aeza3EKd5yuuk"
+	type="text/javascript"></script>
+
+<link href="/resources/static/css/tourkalender_jogi.css" rel="stylesheet"
+	media="screen" th:href="@{/resources/static/css/tourkalender_jogi.css}" />
+</head>
+<body>
+	<div th:replace="fragments/header_jogi :: header_jogi">text for not existing fragment</div>
+	<div th:include="tourkalender_script :: tourkalender_script "></div>
+	<div id="map-canvas" style="height: 750px;"></div>
+</body>
+</html>
+

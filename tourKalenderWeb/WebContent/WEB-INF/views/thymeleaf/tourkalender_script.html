@@ -1,0 +1,132 @@
+<html xmlns="http://www.w3.org/1999/xhtml">
+<body>
+
+<div th:fragment="tourkalender_script" xmlns:th="http://www.thymeleaf.org">
+<script th:inline="javascript">
+    /* <![CDATA[ */
+	var markers = [];
+	var map;
+	var bonn = new google.maps.LatLng([[${startPoint.getLatitude()}]], [[${startPoint.getLongitude()}]]);
+	var newTrack = [];
+
+	function showDataOfHour(hours) {
+		$.ajax({
+					dataType : "json",
+					url : "/tourkalender/getDataOfHour",
+					cache : false,
+					data : 'numberHours='+hours,
+					success : function(response) {
+
+						newTrack = response;
+						var factor = 1 / hours;
+						drop(factor);
+
+					},
+					error : function() {
+						alert('Error while request..');
+					}
+				});
+	}
+	
+	function showAll() {
+		$.ajax({
+				dataType : "json",
+				url : "/tourkalender/getAll",
+				cache : false,
+				success : function(response) {
+					alert('success tree.');
+
+					newTrack = response;
+					drop();
+				},
+				error : function() {
+					alert('Error while request..');
+				}
+			});
+	}
+	function initialize() {
+		var bonn = new google.maps.LatLng(50.735371, 7.108363);
+		var mapOptions = {
+			zoom : 14,
+			center : bonn,
+			mapTypeId : 'terrain'
+		};
+		map = new google.maps.Map(document.getElementById('map-canvas'),
+				mapOptions);
+
+		var contentString = '<div id="content">'
+				+ '<div id="siteNotice">'
+				+ '</div>'
+				+ '<h1 id="firstHeading" class="firstHeading">Bonn, Startpunkt</h1>'
+				+ '<div id="bodyContent">'
+				+ '<p>In <b>Bonn</b> starte ich.</p>' + '</div>' + '</div>';
+
+		var infowindow = new google.maps.InfoWindow({
+			content : contentString
+		});
+
+		var markerStart = new google.maps.Marker({
+			position : bonn,
+			map : map,
+			title : 'Bonn'
+		});
+		google.maps.event.addListener(markerStart, 'click', function() {
+			infowindow.open(map, markerStart);
+		});
+
+		// Draw the path, using the Visualization API and the Elevation service.
+		// drawPath();
+
+	}
+
+	function drop(factor) {
+		clearMarkers();
+		$.each(newTrack.positions, function(i, trackPoint) {
+			var latitude = trackPoint.latitude;
+			var longitude = trackPoint.longitude;
+			var temp = new Date(trackPoint.dateTime);
+			var dateTime = temp.getDate().toString() + "."
+					+ temp.getMonth().toString() + ".  "
+					+ temp.getHours().toString() + ":"
+					+ temp.getMinutes().toString() + ":"
+					+ temp.getSeconds().toString();
+
+			addMarkerWithTimeout(trackPoint.latitude, trackPoint.longitude,
+					dateTime, trackPoint.comment, i * 100 * factor);
+		});
+	}
+
+	function addMarkerWithTimeout(lat, lng, dateTime, comment, timeout) {
+		var infowindow = new google.maps.InfoWindow({
+			content : ''
+		});
+		window.setTimeout(function() {
+			var marker = new google.maps.Marker({
+				position : new google.maps.LatLng(lat, lng),
+				map : map,
+				animation : google.maps.Animation.DROP,
+				title : dateTime + "  " + comment
+			});
+			google.maps.event.addListener(marker, 'click', function() {
+				infowindow.setContent(dateTime + "  " + comment);
+				infowindow.setPosition(this.getPosition());
+				infowindow.setMap(map);
+			});
+			markers.push(marker);
+		}, timeout);
+	}
+
+	function clearMarkers() {
+		for (var i = 0; i < markers.length; i++) {
+			markers[i].setMap(null);
+		}
+		markers = [];
+	}
+
+	google.maps.event.addDomListener(window, 'load', initialize);
+	
+    /* ]]> */
+    </script>
+    </div>
+ </body>
+</html>

@@ -1,0 +1,17 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org">
+<head>
+</head>
+<body>
+	<div class="header-container" th:fragment="header">
+		<header id="headernav" class="text-center">
+			
+			<a href="/listTours.html" class="button" th:href="@{/listTours.html}">Touren auflisten</a>
+			<a href="/" class="button button-green" th:href="@{/}">Karte anzeigen</a>
+			<a href="/upload" class="button button-green" th:href="@{/upload}">GPX upload</a>
+			
+		</header>
+	</div>
+</body>
+</html>

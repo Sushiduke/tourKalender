@@ -1,0 +1,16 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml"
+	xmlns:th="http://www.thymeleaf.org">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Liste der Touren</title>
+
+<link href="/resources/static/css/tourkalender.css" rel="stylesheet"
+	media="screen" th:href="@{/resources/static/css/tourkalender.css}" />
+</head>
+<body>
+	<div th:replace="fragments/header    :: header">header fragment</div>
+	<div th:replace="fragments/listTours_frgm :: listTours">listTours fragment</div>
+</body>
+</html>
+
