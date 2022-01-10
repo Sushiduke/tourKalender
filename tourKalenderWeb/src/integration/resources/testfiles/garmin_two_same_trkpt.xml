@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<gpx creator="Garmin 920XT" version="1.1" xmlns="http://www.topografix.com/GPX/1/1"
+     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+     xsi:schemaLocation="http://www.topografix.com/GPX/1/1 http://www.topografix.com/GPX/1/1/gpx.xsd">
+    <metadata>
+        <link href="http://www.garmin.com">
+            <text>Garmin International</text>
+        </link>
+        <time>2016-06-01T14:08:14Z</time>
+    </metadata>
+    <trk>
+        <trkseg>
+            <trkpt lon="6.825921954587102" lat="51.23452076688409">
+                <ele>33.400001525878906</ele>
+                <time>2016-06-01T14:08:14.000Z</time>
+            </trkpt>
+            <trkpt lon="6.826105685904622" lat="51.23456007800996">
+                <ele>34.0</ele>
+                <time>2016-06-01T14:08:16.000Z</time>
+            </trkpt>
+            <trkpt lon="6.826391089707613" lat="51.2345876544714">
+                <ele>34.599998474121094</ele>
+                <time>2016-06-01T14:08:19.000Z</time>
+            </trkpt>
+            <trkpt lon="6.827280828729272" lat="51.234644735231996">
+                <ele>34.400001525878906</ele>
+                <time>2016-06-01T14:08:28.000Z</time>
+            </trkpt>
+        </trkseg>
+        <trkseg>
+            <trkpt lon="6.825921954587102" lat="51.23452076688409">
+                <ele>33.400001525878906</ele>
+                <time>2016-06-01T14:08:14.000Z</time>
+            </trkpt>
+            <trkpt lon="6.826105685904622" lat="51.23456007800996">
+                <ele>34.0</ele>
+                <time>2016-06-01T14:08:16.000Z</time>
+            </trkpt>
+            <trkpt lon="6.826391089707613" lat="51.2345876544714">
+                <ele>34.599998474121094</ele>
+                <time>2016-06-01T14:08:19.000Z</time>
+            </trkpt>
+            <trkpt lon="6.827280828729272" lat="51.234644735231996">
+                <ele>34.400001525878906</ele>
+                <time>2016-06-01T14:08:28.000Z</time>
+            </trkpt>
+        </trkseg>
+    </trk>
+</gpx>

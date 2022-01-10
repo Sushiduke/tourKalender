@@ -1,0 +1,14 @@
+<trkpt lat="1.1" lon="2.2">
+    <ele>3.3</ele>
+    <time>2021-12-06T22:20:30.000Z</time>
+    <magvar>4.4</magvar>
+    <geoidheight>5.5</geoidheight>
+    <name>myName</name>
+    <cmt>http://www.example.com</cmt>
+    <desc>myDescription</desc>
+    <src>mySource</src>
+    <type>myType</type>
+    <link>
+
+    </link>
+</trkpt>

@@ -1,0 +1,9 @@
+<email>
+    <name>myEmailName</name>
+    <id>me@example.com</id>
+    <link>
+        <href>emaillink.com</href>
+        <text>myEmailText</text>
+        <type>myEmailType</type>
+    </link>
+</email>

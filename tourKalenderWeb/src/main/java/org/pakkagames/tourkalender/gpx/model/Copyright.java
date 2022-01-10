@@ -1,25 +1,22 @@
 package org.pakkagames.tourkalender.gpx.model;
 
+import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlProperty;
 import com.fasterxml.jackson.dataformat.xml.annotation.JacksonXmlRootElement;
-import lombok.AllArgsConstructor;
-import lombok.EqualsAndHashCode;
-import lombok.Getter;
-import lombok.NonNull;
-import lombok.ToString;
+import lombok.*;
 
 /**
- * Information about the copyright holder and any license governing use of this file. By linking to an appropriate license, you may place
- * your data into the public domain or grant * additional usage rights.
+ * Information about the copyright holder and any license governing use of this file. By linking to
+ * an appropriate license, you may place your data into the public domain or grant additional
+ * usage rights.
  *
  * @author JOG
  * @since TourKalender 1.0.0
- * 
  */
 @Getter
 @ToString
 @EqualsAndHashCode
 @AllArgsConstructor
-@JacksonXmlRootElement(localName="copyright")
+@JacksonXmlRootElement(localName = "copyright")
 public class Copyright {
 
 	/**
@@ -27,15 +24,18 @@ public class Copyright {
 	 */
 	@NonNull
 	private final String author;
-
 	/**
 	 * Year of copyright.
 	 */
-	private final String year;
-
+	@Setter
+	private String year;
 	/**
 	 * Link to external file containing license text.
 	 */
-	private final String license;
+	@Setter
+	private String license;
 
+	public Copyright(@NonNull @JacksonXmlProperty(localName = "author") String author) {
+		this.author = author;
+	}
 }

@@ -1,0 +1,7 @@
+<author>
+    <name>validXml</name>
+    <email>
+        <name>myName</name>
+        <id>test@example.com</id>
+    </email>
+</author>
