@@ -16,7 +16,7 @@
   <description>Website project that will show GPS coordinates on a Google map.</description>
 
   <properties>
-    <commons-fileupload.version>1.4</commons-fileupload.version>
+    <commons-fileupload.version>1.5</commons-fileupload.version>
     <jackson-core.version>2.12.1</jackson-core.version>
     <jackson-databind.version>2.9.9</jackson-databind.version>
     <jackson-dataformat-xml.version>2.10.1</jackson-dataformat-xml.version>
